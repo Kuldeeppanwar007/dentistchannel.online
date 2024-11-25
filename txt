@@ -1,0 +1,31 @@
+// upcoming webinars
+//    3 banner + heading title /done
+
+// on demand video
+    // 3 banner + heading /done
+
+// certificate details
+    // on completion of ayou get some certificate
+    
+// AI-Powered Automation Solutions using this for feature thing + category we cover /done
+
+// replace review with google review
+
+// replace footer with dentist channel data with links
+
+// mobile responsive
+// sticky btn on footer for mobile
+
+
+// General Dentistry
+// Orthodontics
+// Periodontics
+//  Endodontics
+//  Prosthodontics
+//  Oral and Maxillofacial Surgery
+//  Pediatric Dentistry (Pedodontics)
+//  Oral and Maxillofacial Radiology
+//  Oral Medicine and Pathology
+//  Cosmetic Dentistry
+//  Forensic Odontology
+//  Dental Public Health
