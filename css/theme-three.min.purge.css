@@ -9544,7 +9544,7 @@ textarea.form-control-lg {
 }
 
 .from-tertiary-200 {
-    --uc-gradient-from: #f3ffbf;
+    --uc-gradient-from: 243, 246, 255;
     --uc-gradient-stops: var(--uc-gradient-from), var(--uc-gradient-to)
 }
 
@@ -9553,7 +9553,7 @@ textarea.form-control-lg {
 }
 
 :where(.uc-dark) .dark\:from-gray-700 {
-    --uc-gradient-from: #29292e;
+    --uc-gradient-from: #202942 !important;
     --uc-gradient-stops: var(--uc-gradient-from), var(--uc-gradient-to)
 }
 
@@ -9576,6 +9576,6 @@ textarea.form-control-lg {
 }
 
 :where(.uc-dark) .dark\:from-tertiary-200 {
-    --uc-gradient-from: #f3ffbf;
+    --uc-gradient-from: 243, 246, 255;
     --uc-gradient-stops: var(--uc-gradient-from), var(--uc-gradient-to)
 }
